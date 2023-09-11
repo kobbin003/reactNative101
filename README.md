@@ -1,2 +1,3 @@
-##learning react native
-< npx create-expo-app --template >
+# learning react native
+
+`npx create-expo-app --template `
